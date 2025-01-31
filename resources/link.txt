@@ -1,2 +1,0 @@
-links for reference:
-https://github.com/shubhamgosain/Spell-Corrector/blob/master/README.md
