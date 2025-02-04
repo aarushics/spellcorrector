@@ -10,3 +10,12 @@ https://github.com/public-apis/public-apis
 reference for rest api
 https://docs.github.com/en/rest?apiVersion=2022-11-28
 https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api?apiVersion=2022-11-28
+https://w3schools.invisionzone.com/topic/57771-how-to-call-rest-api-using-current-instance-of-internet-explorer-extension/
+https://w3schools.invisionzone.com/topic/57384-get-api-data-from-url-to-display-on-html-page/
+
+tutorial
+https://codesnippet.io/github-api-tutorial/
+https://www.freecodecamp.org/news/how-to-use-apis-in-web-development/
+https://snipcart.com/blog/integrating-apis-introduction
+https://www.w3schools.com/js/js_api_intro.asp
+https://www.w3schools.com/jsref/api_web.asp
