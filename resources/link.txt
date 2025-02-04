@@ -1,2 +1,5 @@
 links for reference:
 https://github.com/shubhamgosain/Spell-Corrector/blob/master/README.md
+https://www.youtube.com/watch?v=fklHBWow8vE
+https://chatgpt.com/c/67a1c7ee-cc60-8010-8baf-ac34af4d613c
+https://www.youtube.com/results?search_query=how+to+use+api+in+mini+project
