@@ -28,3 +28,6 @@ https://www.freecodecamp.org/news/how-to-use-apis-in-web-development/
 https://snipcart.com/blog/integrating-apis-introduction
 https://www.w3schools.com/js/js_api_intro.asp
 https://www.w3schools.com/jsref/api_web.asp
+
+drag and drop
+https://www.youtube.com/watch?v=4AHot187Lj0&t=56s
