@@ -7,6 +7,15 @@ https://www.youtube.com/results?search_query=how+to+use+api+in+mini+project
 list of public apis
 https://github.com/public-apis/public-apis
 
+for public api integration
+https://apidog.com/blog/frontend-api-integration/
+https://www.frontendmentor.io/articles/integrating-with-apis-a-beginners-guide-for-frontend-developers-u_xfEadBc-
+https://medium.com/swlh/making-use-of-apis-in-your-front-end-c168e343bea3
+https://www.infoq.com/articles/api-first-integration/
+https://medium.com/@hrishikesh.pandey9955/free-public-apis-for-developers-183230b18b90
+https://microservice-api-patterns.org/patterns/foundation/FrontendIntegration
+https://www.skillreactor.io/blog/10-powerful-techniques-to-perfect-your-api-integration-on-frontends/
+
 reference for rest api
 https://docs.github.com/en/rest?apiVersion=2022-11-28
 https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api?apiVersion=2022-11-28
