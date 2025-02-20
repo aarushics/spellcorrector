@@ -1,0 +1,38 @@
+📌 How It Works
+
+    Start the server:
+
+    node server.js
+
+    Upload a file via POST /upload (with multipart/form-data containing file).
+    The API will automatically extract text and check for grammar mistakes.
+
+📌 Example Request
+
+Uploading a file (example.txt):
+
+POST /upload
+Content-Type: multipart/form-data
+file: example.txt
+
+📌 Example Response
+
+{
+  "filename": "example.txt",
+  "grammarCheck": {
+    "matches": [
+      {
+        "message": "Possible spelling mistake found.",
+        "replacements": ["This"],
+        "offset": 0,
+        "length": 3
+      },
+      {
+        "message": "Possible grammatical mistake.",
+        "replacements": ["is"],
+        "offset": 8,
+        "length": 5
+      }
+    ]
+  }
+}
