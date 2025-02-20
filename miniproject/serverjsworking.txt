@@ -1,3 +1,19 @@
+
+📌 Install Dependencies
+
+Run this in your project folder:
+
+npm init -y
+npm install express cors axios multer dotenv fs path pdf-parse mammoth
+
+    express: Web server
+    cors: Cross-Origin support
+    axios: API requests
+    multer: File uploads
+    fs: File system operations
+    pdf-parse: Extract text from PDFs
+    mammoth: Extract text from DOCX
+
 📌 How It Works
 
     Start the server:
