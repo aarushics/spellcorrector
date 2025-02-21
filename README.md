@@ -1,7 +1,7 @@
 # spellcorrrector
 
 
-## Description
+#### Description
 This is an application/website that:
 *provides a text prompt where user can type thhe text , get it's spelling and grammer checked
 *can upload text-based files for grammar and spelling correction
